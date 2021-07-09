@@ -9,4 +9,11 @@ Data Science applications and examples:
 1. Getting the most values out of soccer roasters. 
 2. Learning for metastatis.
 
-This is Harsh Trivedi, explaning you some of the important stuffs about data science for the people or students starting is as a freshie. In case of any doubt or query you can reach me out on my mail id that is hltharsh1@gmail.com
+Stating some of the advantages of R Language:
+1. Exemplary Support of Data Wrangling. R provides exemplary support of data wrangling. 
+2. The array of packages. 
+3. Quality plotting and graphing.
+4. Highly compatible.
+5. Platform independent.
+6. Eye catching reports.
+7. Machine learning operations. 
