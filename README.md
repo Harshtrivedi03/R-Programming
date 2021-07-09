@@ -6,7 +6,7 @@ Ans. Mathematics (includes statistics and probability), Computer Science (eg, so
 Example of a data science project!
 Ans. The following things can be considered as the example of data science. Such as; Identification and orediction of diseases, Optimizing shipping and logistics routes in real time, detection of frauds, health care recommendations, automating digital ads, etc. 
 Data Science applications and examples:
-1. Getting teh most values out of soccer roasters. 
+1. Getting the most values out of soccer roasters. 
 2. Learning for metastatis.
 
 This is Harsh Trivedi, explaning you some of the important stuffs about data science for the people or students starting is as a freshie. In case of any doubt or query you can reach me out on my mail id that is hltharsh1@gmail.com
